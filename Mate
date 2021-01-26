@@ -1,0 +1,6 @@
+a = input('Aria cercului sau lungimea:')
+pi = π
+raza = input ('marimea razei:') 
+ 
+if str(a) == 'lungimea':
+print( int(raza) * 2 + str(pi)) 
